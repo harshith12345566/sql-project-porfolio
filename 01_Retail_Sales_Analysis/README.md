@@ -278,22 +278,6 @@ GROUP BY shift;
 ✅ Business Analysis
 
 ---
-
-# 📁 Project Structure
-
-```
-Retail-Sales-Analysis
-│
-├── dataset/
-│     retail_sales.csv
-│
-├── queries.sql
-│
-├── screenshots/
-│
-└── README.md
-```
-
 ---
 
 # 🚀 Future Improvements
